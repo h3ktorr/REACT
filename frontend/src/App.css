@@ -1,0 +1,33 @@
+.valentine-container {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ height: 100vh;
+}
+
+.question{
+ font-size: 30px;
+ font-weight: bold;
+ margin-bottom: 30px;
+}
+
+.text{
+ font-size: 20px;
+ font-weight: bold;
+}
+
+.yesButton{
+ background: green;
+ color: white;
+ margin-right: 20px;
+}
+
+.noButton{
+ background: red;
+ color: white;
+}
+
+img{
+ width: 90%;
+}
